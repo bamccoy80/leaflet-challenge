@@ -1,0 +1,1 @@
+This code shows the magnitude of earthquakes in the United States.  We use different tile layers for the background of the maps.  I use the GeoJson API https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson to get the data for the earthquakes. 
